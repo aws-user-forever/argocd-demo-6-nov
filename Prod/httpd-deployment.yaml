@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: httpd
-        image: 759294595201.dkr.ecr.us-east-1.amazonaws.com/my-eks-demo-updated-6-nov:latest
+        image: nginx:1.27.2
         ports:
         - containerPort: 80
