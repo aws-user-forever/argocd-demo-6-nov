@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/swami-github-user/argocd-example-repo.git
+    repoURL: https://github.com/aws-user-forever/argocd-demo-6-nov.git
     targetRevision: HEAD
     path: Prod
   destination:
